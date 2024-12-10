@@ -1,0 +1,14 @@
+## Title: GuardMe
+## Version: dev
+## Author: |c76c3f4@m00nyONE|r
+## APIVersion: 101044
+## AddOnVersion: 00000000
+## SavedVariables: GuardMeSV
+## DependsOn: LibAddonMenu-2.0>=32
+
+## languages
+lang/en.lua
+lang/$(language).lua
+
+## core addon
+GuardMe.lua
